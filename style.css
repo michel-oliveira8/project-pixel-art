@@ -1,0 +1,16 @@
+ 
+td.color{
+    border: 1px solid rgb(0, 0, 0)
+}
+.black{
+    background-color: black;
+}
+.red{
+    background-color: red;
+}
+.purple{
+    background-color: purple;
+}
+.green{
+    background-color:green;
+}
