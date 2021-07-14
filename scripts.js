@@ -20,13 +20,13 @@ for (let i = 0; i < pixel.length; i += 1) {
 }
 
 function changeColor(event) {
-  for(let i = 0; i < color.length; i += 1) {
-    if(color [i].classList.contains('selected')){
-      color [i].classList.remove('selected')
+  for (let i = 0; i < color.length; i += 1) {
+    if (color[i].classList.contains('selected')) {
+      color[i].classList.remove('selected');
     }
   }
   const colorsSelected = event.target;
- selected.classList.remove('selected');
+  selected.classList.remove('selected');
   colorsSelected.classList.add('selected');
 }
 palette.addEventListener('click', changeColor);
