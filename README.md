@@ -2,7 +2,12 @@
 
 ## Desenvolvimento
 
-- Implementado uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels. Utilizado as tecnologias `javascript`, `css` e `html`.
+- Implementado uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels.
+
+
+### Tecnologias:
+
+  - `HTML, CSS, JavaScript`
 
 
 ## Clone o repositório:
